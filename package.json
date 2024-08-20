@@ -1,6 +1,6 @@
 {
   "name": "event-visualizer-app",
-  "version": "33.0.17",
+  "version": "33.0.17-ocg1",
   "description": "Event charts app",
   "main": "index.html",
   "scripts": {
@@ -60,6 +60,8 @@
       "url": "",
       "name": "DHIS2 visualization team"
     },
+    "short_name": "event-visualizer",
+    "core_app": true,
     "activities": {
       "dhis": {
         "href": "..",
